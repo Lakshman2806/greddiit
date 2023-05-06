@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000"); */
+  background-color: #121212;
+  /* background-color: antiquewhite; */
+}
+
+.Followers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 5vh;
+  /* background-color: #f5f5f5; */
+}
+
+.Following {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 5vh;
+  /* background-color: #f5f5f5; */
+}
+
+.FollowerBtn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 5vh;
+  /* background-color: #f5f5f5; */
+}
+html, body {
+  margin:0;
+  padding:0;
+}
+.FollowingBtn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 5vh;
+  /* background-color: #f5f5f5; */
+}
+
+.SignupLogin {
+  /* margin-left: ; */
+  margin-top: 8;
+  color:brown;
+  flex-direction: "column";
+  align-items: "center";
+  display: "flex";
+  
+  /* background-color: aquamarine; */
+}
+
+.contained {
+  display: grid;
+  margin-top: 8pc;
+  margin-right: 28pc;
+  margin-left: 28pc;
+  grid-template-columns: 1fr 1fr;
+  /* margin-right: 80pc; */
+  gap: 100px;
+}
+
+.Button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 5vh;
+  /* background-color: #f5f5f5; */
+}
+.Button:hover{
+  cursor: pointer;
+}
+
+.combinedpage{
+  background-image: url("../public/images.jpeg");
+}
+
+.pages{
+  /* max-width: 1400px; */
+  
+  padding: 20px;
+  margin: 0 auto;
+  /* background-color: aquamarine; */
+  margin-bottom: 0%;
+}
+
+.card{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page{
+  /* max-width: 1400px; */
+  margin: 0 auto;
+  /* background-color: aquamarine; */
+  margin-bottom: 0%;
+}
+
+.subgreddiit-cover{
+
+  /* background-color: aquamarine; */
+  margin: auto;
+  text-align: center;
+  margin-bottom: 0%;
+  position: sticky;
+}
